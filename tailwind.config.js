@@ -5,6 +5,8 @@ export default {
     extend: {
       fontFamily: {
         geo: ["Geologica", "sans-serif"],
+        inter: ['Inter Variable', 'sans-serif'],
+        rubik: ['Rubik Variable', 'sans-serif'],	
       },
     },
   },
